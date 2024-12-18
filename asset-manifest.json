@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/collegework/static/css/main.0facbd64.css",
+    "main.js": "/collegework/static/js/main.562bb60f.js",
+    "static/media/imgf2.png": "/collegework/static/media/imgf2.279dbaf46f956e30b822.png",
+    "static/media/Download.png": "/collegework/static/media/Download.ddd1f6e62274ff8f2ddc.png",
+    "static/media/imgfood.png": "/collegework/static/media/imgfood.0fc9b90549524825d82e.png",
+    "static/media/banner (2).png": "/collegework/static/media/banner (2).7eaf2cb63e016f6b050e.png",
+    "static/media/Onest-Medium.eot": "/collegework/static/media/Onest-Medium.a64bb9b9dc0f04a3acff.eot",
+    "static/media/Onest-Bold.eot": "/collegework/static/media/Onest-Bold.79ea935075bd880568cc.eot",
+    "static/media/Onest-Regular.eot": "/collegework/static/media/Onest-Regular.c736cd52c8a587761c3e.eot",
+    "static/media/Onest-Medium.ttf": "/collegework/static/media/Onest-Medium.cce5693f411386012615.ttf",
+    "static/media/Onest-Bold.ttf": "/collegework/static/media/Onest-Bold.ee07ddd0252c7973d67a.ttf",
+    "static/media/Onest-Regular.ttf": "/collegework/static/media/Onest-Regular.7f22f83f784973cef4df.ttf",
+    "static/media/banner (1).png": "/collegework/static/media/banner (1).e50ab9bb8e9bc5869270.png",
+    "static/media/Downloadadaptiv.png": "/collegework/static/media/Downloadadaptiv.4b4b1d626e971199e97e.png",
+    "static/media/Onest-Bold.woff": "/collegework/static/media/Onest-Bold.bcc7d1596c2ba6a67891.woff",
+    "static/media/Onest-Medium.woff": "/collegework/static/media/Onest-Medium.ddece428f2591899daa3.woff",
+    "static/media/Onest-Regular.woff": "/collegework/static/media/Onest-Regular.b1effde368c20b3cb033.woff",
+    "static/media/logo.svg": "/collegework/static/media/logo.5c266e5736cb6a6980cb5070e813f2e2.svg",
+    "static/media/Onest-Bold.woff2": "/collegework/static/media/Onest-Bold.9c8204534633c5c3ab64.woff2",
+    "static/media/Onest-Medium.woff2": "/collegework/static/media/Onest-Medium.3b509692a3a04f820e2d.woff2",
+    "static/media/Onest-Regular.woff2": "/collegework/static/media/Onest-Regular.80dc259346ea8d8ef189.woff2",
+    "static/media/banner.png": "/collegework/static/media/banner.73b94d6b8f46f7fec1dc.png",
+    "static/media/croplogo.svg": "/collegework/static/media/croplogo.fc44d851d280bad97dbc33b37976336f.svg",
+    "static/media/vk.svg": "/collegework/static/media/vk.cdff031bcdefa356b1e1d0d7d0781f53.svg",
+    "static/media/parameters.svg": "/collegework/static/media/parameters.ea557e786c8be2f1224f1b3b97d0f9f4.svg",
+    "static/media/search.svg": "/collegework/static/media/search.c9448eb55913f1937f3e833fac60bd00.svg",
+    "static/media/check-circle.svg": "/collegework/static/media/check-circle.cc3e5d256c62aa4b6b693a9cbba4541a.svg",
+    "static/media/youtube.svg": "/collegework/static/media/youtube.98c5cdd76c8575c8d3c20ab2321df76f.svg",
+    "index.html": "/collegework/index.html",
+    "static/media/phone.svg": "/collegework/static/media/phone.00ff936bae351d3969cb6daf54352049.svg",
+    "static/media/plus.svg": "/collegework/static/media/plus.311dad0e383d4d716b59ae0283b357ed.svg",
+    "static/media/check-circle (1).svg": "/collegework/static/media/check-circle (1).ac62b625ad31f9e415b8518b3b95ed63.svg",
+    "static/media/telegram.svg": "/collegework/static/media/telegram.ac78848f7920a9874cc068e3afe081ac.svg",
+    "main.0facbd64.css.map": "/collegework/static/css/main.0facbd64.css.map",
+    "main.562bb60f.js.map": "/collegework/static/js/main.562bb60f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0facbd64.css",
+    "static/js/main.562bb60f.js"
+  ]
+}
